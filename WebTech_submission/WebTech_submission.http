@@ -1,0 +1,6 @@
+@WebTech_submission_HostAddress = http://localhost:5177
+
+GET {{WebTech_submission_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
